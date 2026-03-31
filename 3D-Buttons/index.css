@@ -13,6 +13,8 @@ button {
               0 8px  hsl(0, 100%, 45%),
               0 10px hsl(0, 100%, 10%);
   border: none;
+  color: rgb(255, 91, 91);
+  text-shadow: 0 -1px 0 rgba(255, 110, 110, 0.562);
   transition: .1s ease-out;
 }
 
